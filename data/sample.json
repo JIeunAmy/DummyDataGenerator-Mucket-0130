@@ -1,5 +1,5 @@
 {
-  "totalCount": 12,
+  "totalCount": 5,
   "samples": [
     { "id": "S-001", "name": "실리콘 웨이퍼-8인치", "avgProductionTimeMin": 0.5, "yieldRate": 0.92, "currentStock": 480 },
     { "id": "S-002", "name": "GaN 에피택셜-4인치", "avgProductionTimeMin": 0.3, "yieldRate": 0.78, "currentStock": 220 },
