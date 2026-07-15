@@ -1,0 +1,9 @@
+{
+  "orders": [
+    { "orderId": "ORD-0001", "sampleName": "실리콘 웨이퍼-8인치", "quantity": 50, "status": "RESERVED" },
+    { "orderId": "ORD-0002", "sampleName": "GaN 에피택셜-4인치", "quantity": 30, "status": "CONFIRMED" },
+    { "orderId": "ORD-0003", "sampleName": "SiC 파워기판-6인치", "quantity": 20, "status": "PRODUCING" },
+    { "orderId": "ORD-0004", "sampleName": "포토레지스트-PR7", "quantity": 100, "status": "RELEASE" },
+    { "orderId": "ORD-0005", "sampleName": "산화막 웨이퍼-SiO2", "quantity": 40, "status": "REJECTED" }
+  ]
+}
